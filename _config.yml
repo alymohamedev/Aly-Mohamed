@@ -1,6 +1,5 @@
-title: "Mohamed Aly"
-logo: img/photo.jpg
-description: "Portfolio IT – Azure, Réseaux (CCNA), Cloud & Cybersécurité"
-show_downloads: false
-theme: jekyll-theme-minimal
-lang: fr
+
+title: "Portfolio — Mohamed Aly"
+description: "Technicien informatique — projets, compétences, diplômes & certifications"
+theme: minima
+markdown: kramdown
